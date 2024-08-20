@@ -28,10 +28,10 @@ void multiplica_matrizes(int n, int matriz1[n][n], int matriz2[n][n], int result
 Matriz Resultante:
 <br>19 - 22
 <br>43 - 50
-[Questão 3 - Credit Cards](https://cs50.harvard.edu/x/2023/psets/1/credit/)
-[Questão 4 - Dinheiro](https://cs50xemportugues.github.io/2024/exercicios/1/cash.html)
-[Questão 5 - Scrabble](https://cs50xemportugues.github.io/2024/exercicios/2/scrabble.html)
-[Questão 6 - Substituição](https://cs50xemportugues.github.io/2024/exercicios/2/substitution.html)
-[Questão 7 - César](https://cs50xemportugues.github.io/2024/exercicios/2/caesar.html)
-[Questão 8 - Construindo Casas](https://judge.beecrowd.com/pt/problems/view/1541)
-[Questão 9 - Bazinga!](https://judge.beecrowd.com/pt/problems/view/1828)
+## [Questão 3 - Credit Cards](https://cs50.harvard.edu/x/2023/psets/1/credit/)
+## [Questão 4 - Dinheiro](https://cs50xemportugues.github.io/2024/exercicios/1/cash.html)
+## [Questão 5 - Scrabble](https://cs50xemportugues.github.io/2024/exercicios/2/scrabble.html)
+## [Questão 6 - Substituição](https://cs50xemportugues.github.io/2024/exercicios/2/substitution.html)
+## [Questão 7 - César](https://cs50xemportugues.github.io/2024/exercicios/2/caesar.html)
+## [Questão 8 - Construindo Casas](https://judge.beecrowd.com/pt/problems/view/1541)
+## [Questão 9 - Bazinga!](https://judge.beecrowd.com/pt/problems/view/1828)
