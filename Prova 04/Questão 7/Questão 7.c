@@ -39,7 +39,7 @@ int main() {
 
         printf("Digite a palavra que deseja criptografar: ");
         fgets(palavraSimples, sizeof(palavraSimples), stdin);
-        if (palavraSimples[0] == '\n' || palavraSimples[0]=='\0') {
+        if (palavraSimples[0] == '\n') {
             printf("Erro ao ler a entrada.\n");
             continue;
         }
