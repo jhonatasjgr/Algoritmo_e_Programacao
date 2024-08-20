@@ -1,5 +1,5 @@
 # Prova Prática de Algoritmos e Programação 2024-1
-## Questões 1
+## Questão 1
 ### Questão sobre Arrays
 Você foi contratado para desenvolver uma função que analisa um conjunto de dados representado por um array de números inteiros. Sua tarefa é implementar uma função em C que receba um array de números inteiros e o tamanho desse array, e retorne a soma dos elementos do array. Em seguida, escreva um programa que leia um número n indicando o tamanho do array, leia n números inteiros do usuário, e utilize a função para calcular e imprimir a soma dos números.
 
@@ -12,7 +12,7 @@ int soma_array(int array[], int tamanho);
 A soma dos elementos do array é: 15
 ### Dicas:
 Lembre-se de iterar pelo array para somar os elementos.
-Use um laço de repetição for para ler os elementos do array e outro para calcular a soma.
+<br>Use um laço de repetição for para ler os elementos do array e outro para calcular a soma.
 ## Questão 2
 Implemente uma função em C que receba duas matrizes quadradas n x n e retorne uma terceira matriz que seja o resultado da multiplicação das duas matrizes. Em seguida, escreva um programa que leia um número n indicando o tamanho das matrizes, leia duas matrizes n x n do usuário, utilize a função para calcular a matriz resultante da multiplicação e imprima essa matriz.
 
